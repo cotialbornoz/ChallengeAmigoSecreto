@@ -67,7 +67,7 @@ header {
   justify-content: center;
   align-items: center;
   background-color: var(--rojo);
-  background-image: url(https://github.com/cotialbornoz/ChallengeAmigoSecreto/blob/c45f6bbb4b28edc946289c10d09db5a5ad02bdd5/resources/waup.svg);
+  background-image: url(./resources/waup.svg);
   background-position: bottom;
   background-repeat: no-repeat;
 }
@@ -351,7 +351,7 @@ main h2 {
   align-items: center;
   gap: 120px;
   background-color: var(--celeste);
-  background-image: url(resources/wad.svg);
+  background-image: url(./resources/wad.svg);
   background-repeat: no-repeat;
   background-position: top;
 }
